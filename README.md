@@ -2,7 +2,8 @@
 
 É uma aplicação desenvolvida em **Python** para catalogar, ordenar e consultar métricas de impacto acadêmico de pesquisadores dedicados à **Ciência Aberta** (*Open Science*).
 
-A base de dados é composta por 583 perfis reais extraídos do **Google Scholar Profiles** com o auxílio do software acadêmico [*Publish or Perish*](https://harzing.com/resources/publish-or-perish/windows). 
+A base de dados é composta por 583 perfis reais extraídos do **Google Scholar Profiles** com o auxílio do software [*Publish or Perish*](https://harzing.com/resources/publish-or-perish/windows).
+
 ---
 ## Estrutura de Arquivos do Repositório
 
